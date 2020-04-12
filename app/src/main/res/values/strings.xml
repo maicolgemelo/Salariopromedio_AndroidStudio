@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SalarioEmpleado</string>
+    <string name="titulo1">Salario Empleado</string>
+    <string name="pregunta1">Valor Hora</string>
+    <string name="pregunta2">Horas Trabajadas</string>
+    <string name="texto1">Ingresa el valor de la horas y </string>
+    <string name="texto2"> las horas tranajadas para dar como</string>
+    <string name="texto3">resultado el salario del empleado.</string>
+    <string name="procesar">Procesar</string>
+    <string name="pregunta11">Ingrese valor de hora:</string>
+    <string name="pregunta22">Ingrese horas trabajadas:</string>
+</resources>
